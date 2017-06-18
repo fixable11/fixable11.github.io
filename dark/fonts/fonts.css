@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'aglettericacondensedc';
+	src: url('aglettericacondensedc.woff') format('woff');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'MyriadPro-Cond';
+	src: url('MyriadPro-Cond.woff') format('woff');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'BebasRegular';
+	src:url('BebasRegular/BebasRegular.woff') format('woff');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'BebasBold';
+	src:url('BebasBold/BebasBold.woff') format('woff');
+	font-style: normal;
+	font-weight: normal;
+}
